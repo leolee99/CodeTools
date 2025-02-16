@@ -1,2 +1,2 @@
 # CodeTools
-This is a repository for many useful tools for coding. You can find them in Issues.
+This is a repository of many useful tools for coding. You can find them in Issues.
